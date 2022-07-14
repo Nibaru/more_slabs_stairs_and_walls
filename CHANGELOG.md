@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.19 - Fabric] - 2022-07-13
+## [1.18.2 - Fabric] - 2022-07-13
 
 ### Added
 - Stairs, Slabs, Walls for:
@@ -22,7 +22,6 @@
   - jungle wood
   - dark oak wood
   - acacia wood
-  - mangrove wood
   - crimson hyphae
   - warped hyphae
   - stripped oak wood
@@ -31,7 +30,6 @@
   - stripped jungle wood
   - stripped dark oak wood
   - stripped acacia wood
-  - stripped mangrove wood
   - stripped crimson hyphae
   - stripped warped hyphae
   - obsidian

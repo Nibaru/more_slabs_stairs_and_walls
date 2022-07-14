@@ -33,7 +33,6 @@ public class BlockRegistry {
         registerAll("jungle_wood", Blocks.JUNGLE_WOOD);
         registerAll("dark_oak_wood", Blocks.DARK_OAK_WOOD);
         registerAll("acacia_wood", Blocks.ACACIA_WOOD);
-        registerAll("mangrove_wood", Blocks.MANGROVE_WOOD);
         registerAll("crimson_hyphae", Blocks.CRIMSON_HYPHAE);
         registerAll("warped_hyphae", Blocks.WARPED_HYPHAE);
 
@@ -43,7 +42,6 @@ public class BlockRegistry {
         registerAll("stripped_jungle_wood", Blocks.JUNGLE_WOOD);
         registerAll("stripped_dark_oak_wood", Blocks.DARK_OAK_WOOD);
         registerAll("stripped_acacia_wood", Blocks.ACACIA_WOOD);
-        registerAll("stripped_mangrove_wood", Blocks.MANGROVE_WOOD);
         registerAll("stripped_crimson_hyphae", Blocks.CRIMSON_HYPHAE);
         registerAll("stripped_warped_hyphae", Blocks.WARPED_HYPHAE);
 
