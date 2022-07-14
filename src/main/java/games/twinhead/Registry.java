@@ -37,6 +37,7 @@ public class Registry {
         registerAll("sea_lantern", Blocks.SEA_LANTERN, BlockBehaviour.Properties.copy(Blocks.SEA_LANTERN).lightLevel(l -> 15));
         registerAll("shroomlight", Blocks.SHROOMLIGHT, BlockBehaviour.Properties.copy(Blocks.SHROOMLIGHT).lightLevel(l -> 15));
         registerAll("end_stone", Blocks.END_STONE);
+
         registerAll("oak_wood", Blocks.OAK_WOOD);
         registerAll("birch_wood", Blocks.BIRCH_WOOD);
         registerAll("spruce_wood", Blocks.SPRUCE_WOOD);

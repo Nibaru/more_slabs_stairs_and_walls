@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - 2022-07-13
+## [1.18.2] - 2022-07-13
 
 ### Added
 - Stairs, Slabs, Walls for:
