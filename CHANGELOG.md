@@ -1,6 +1,12 @@
 # Changelog
 
-## [1.0.0] - 2022-07-13
+## [1.19 - Forge] - 2022-07-13
+
+### Fixed
+- Some blocks break at incorrect speeds
+- Some blocks break with wrong tool
+- 
+## [1.19 - Forge] - 2022-07-13
 
 ### Added
 - Stairs, Slabs, Walls for:
