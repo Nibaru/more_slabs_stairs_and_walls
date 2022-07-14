@@ -1,31 +1,8 @@
-# more-building-blocks/More-Building-Blocks-Forge
+# more_slabs_stairs_and_walls
+
+This mod adds a variety of slab stair and wall blocks that are missing from vanilla.
+
+![blocks gif](https://i.imgur.com/mf9GNQ2.gif)
 
 
 
-## Getting Started
-
-Download links:
-
-SSH clone URL: ssh://git@git.jetbrains.space/twinhead/more-building-blocks/More-Building-Blocks-Forge.git
-
-HTTPS clone URL: https://git.jetbrains.space/twinhead/more-building-blocks/More-Building-Blocks-Forge.git
-
-
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-## Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Examples
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a production system.
-
-## Resources
-
-Add links to external resources for this project, such as CI server, bug tracker, etc.
