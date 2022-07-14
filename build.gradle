@@ -11,7 +11,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 
 group = 'games.twinhead'
-version = '1.0.0'
+version = '1.19'
 
 java {
     archivesBaseName = 'more_stairs_slabs_and_walls'
