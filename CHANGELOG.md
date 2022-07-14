@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - 2022-07-13
+## [1.19 - Fabric] - 2022-07-13
 
 ### Added
 - Stairs, Slabs, Walls for:
@@ -51,5 +51,3 @@
   - prismarine bricks
   - stone
   - smooth stone
-
-All new blocks:

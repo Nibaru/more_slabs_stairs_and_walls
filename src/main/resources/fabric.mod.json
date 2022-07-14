@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "more_slabs_stairs_and_walls",
+  "version": "${version}",
+
+  "name": "More Slabs, Stairs, and Walls",
+  "description": "This mod adds a variety of slab stair and wall blocks that are missing from vanilla.",
+  "authors": [
+    "Nibaru"
+  ],
+  "contact": {
+    "sources": "https://github.com/Nibaru/more_slabs_stairs_and_walls/tree/1.19-fabric"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/more_slabs_stairs_and_walls/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "games.twinhead.MoreBuildingBlocks"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}
